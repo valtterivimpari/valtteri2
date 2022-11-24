@@ -2,3 +2,4 @@ pinaatti
 tomaatti
 kala
 vihannes
+porkkana
