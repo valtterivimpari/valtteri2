@@ -3,3 +3,4 @@ tomaatti
 kala
 vihannes
 porkkana
+herne2
